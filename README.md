@@ -1,4 +1,4 @@
-<strike>it picks colors
+<strike>it picks colors</strike>
 
 haha it does not anymore
 I just cant remeber how I sat up static page on heroku
